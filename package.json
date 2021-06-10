@@ -31,5 +31,14 @@
     "url": "https://github.com/MyUserNameIsMyUserName/A-O_app_template/issues"
   },
   "homepage": "https://github.com/MyUserNameIsMyUserName/A-O_app_template#readme",
-  "dependencies": {}
+  "dependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "babel-plugin-remove-comments": "^2.0.0",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "livereload": "^0.9.1",
+    "webpack": "^5.16.0"
+  }
 }
